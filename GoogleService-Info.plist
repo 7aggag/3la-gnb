@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>389734713885-pe94psnar34eep9n8gddhhdekrscbeed.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.389734713885-pe94psnar34eep9n8gddhhdekrscbeed</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtbNOl6olpIYU_02d3XdmeFxjcOM7lWTA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>389734713885</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fst.-la-gnb</string>
+	<key>PROJECT_ID</key>
+	<string>la-gnb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>la-gnb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:389734713885:ios:321f0435508221d06294f4</string>
+	<key>DATABASE_URL</key>
+	<string>https://la-gnb.firebaseio.com</string>
+</dict>
+</plist>
